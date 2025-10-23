@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👋 Hi there, I'm Kaung Htet Zaw
 
-<!--
-**kaunghtetzaw139432/kaunghtetzaw139432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Spring Boot developer** and a student who loves building backend systems and exploring modern web technologies.  
+Currently learning **Spring Boot**, **JWT Authentication**, and **Angular** to become a full-stack developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Spring Boot (REST APIs, JPA, Security, JWT)
+- Angular (Frontend Basics & API Integration)
+- Database Management (MySQL, PostgreSQL)
+- Git & GitHub for collaboration
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:** Java, Spring Boot, Spring Security, JPA, Hibernate  
+**Frontend:** Angular, HTML, CSS, TypeScript  
+**Database:** MySQL
+**Tools:** VS Code, firecamp, Github
+
+## 🎯 Goals
+
+- Build a full-stack project with Spring Boot + Angular  
+- Learn cloud deployment (AWS / Render / Railway)  
+- Contribute to open-source projects  
+- Improve problem-solving skills
+  
+ ## 📫 How to reach me
+
+- GitHub: [github.com/kaunghtetzaw139432](https://github.com/kaunghtetzaw139432)
+- Email: zawk29006email.com
+
+
+### 🚀 Featured Projects
+- [Library Management System](https://github.com/kaunghtetzaw139432/Library-management-system)
+- [Banking System](https://github.com/kaunghtetzaw139432/bank-system)
+- [Bookie Project](https://github.com/kaunghtetzaw139432/bookie)
+
+---
+
+⭐ From [kaunghtetzaw139432](https://github.com/kaunghtetzaw139432)
+
+> “Keep learning. Keep building. Every line of code is progress.” 🚀
+
