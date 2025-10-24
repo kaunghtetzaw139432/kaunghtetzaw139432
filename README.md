@@ -40,7 +40,7 @@ Currently learning **Spring Boot**, **JWT Authentication**, and **Angular** to b
 - [Bookie Project](https://github.com/kaunghtetzaw139432/bookie)
 - [online-shopping Project](https://github.com/kaunghtetzaw139432/online-shopping)
 - [Simple_Email-Notification-Service Project](https://github.com/kaunghtetzaw139432/notification-service)
--  [Simple_Email-Notification-Service Project](https://github.com/kaunghtetzaw139432/E-commerce_project)
+-  [E-commerce_Angular_Project](https://github.com/kaunghtetzaw139432/E-commerce_project)
 
 ---
 
