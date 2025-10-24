@@ -38,6 +38,8 @@ Currently learning **Spring Boot**, **JWT Authentication**, and **Angular** to b
 - [Library Management System](https://github.com/kaunghtetzaw139432/Library-management-system)
 - [Banking System](https://github.com/kaunghtetzaw139432/bank-system)
 - [Bookie Project](https://github.com/kaunghtetzaw139432/bookie)
+- [online-shopping Project](https://github.com/kaunghtetzaw139432/online-shopping)
+- [Simple_Email-Notification-Service Project](https://github.com/kaunghtetzaw139432/notification-service)
 
 ---
 
