@@ -31,7 +31,7 @@ Currently learning **Spring Boot**, **JWT Authentication**, and **Angular** to b
  ## 📫 How to reach me
 
 - GitHub: [github.com/kaunghtetzaw139432](https://github.com/kaunghtetzaw139432)
-- Email: zawk29006email.com
+- Email: zawk29006@gmail.com
 
 
 ### 🚀 Featured Projects
@@ -40,7 +40,8 @@ Currently learning **Spring Boot**, **JWT Authentication**, and **Angular** to b
 - [Bookie Project](https://github.com/kaunghtetzaw139432/bookie)
 - [online-shopping Project](https://github.com/kaunghtetzaw139432/online-shopping)
 - [Simple_Email-Notification-Service Project](https://github.com/kaunghtetzaw139432/notification-service)
--  [E-commerce_Angular_Project](https://github.com/kaunghtetzaw139432/E-commerce_project)
+- [E-commerce_Angular_Project](https://github.com/kaunghtetzaw139432/E-commerce_project)
+- [Notification-service ](https://github.com/kaunghtetzaw139432/notification-service)
 
 ---
 
