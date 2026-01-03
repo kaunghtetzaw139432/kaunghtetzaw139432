@@ -1,53 +1,100 @@
 ![Banner](banner.png)
 
-## 👋 Hi there, I'm Kaung Htet Zaw
+# Hi 👋 I'm Kaung Htet Zaw
 
-I'm a **Spring Boot developer** and a student who loves building backend systems and exploring modern web technologies.  
-Currently learning **Spring Boot**, **JWT Authentication**, and **Angular** to become a full-stack developer.
+🚀 **Spring Boot Developer | Backend Engineer (Learner)**  
+📍 Myanmar  
 
-
-## 🌱 Currently Learning
-
-- Spring Boot (REST APIs, JPA, Security, JWT)
-- Angular (Frontend Basics & API Integration)
-- Database Management (MySQL, PostgreSQL)
-- Git & GitHub for collaboration
-
+I am a passionate backend developer and student focused on building clean, scalable, and testable applications using **Spring Boot**.  
+Currently, I am expanding my skills in **MongoDB**, **Spring Boot Testing**, **React**, and **Microservices** for modern full-stack development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+- 🎓 Student & Backend Developer  
+- 💡 Interested in backend architecture, REST APIs & Microservices  
+- 🧪 Focused on testing and clean code practices  
+- 🌱 Actively learning backend & frontend technologies  
 
-**Backend:** Java, Spring Boot, Spring Security, JPA, Hibernate  
-**Frontend:** Angular, HTML, CSS, TypeScript  
-**Database:** MySQL
-**Tools:** VS Code, firecamp, Github
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java  
+- Spring Boot  
+- Spring Security  
+- JPA / Hibernate  
+- **Spring Cloud & Microservices (Eureka, Feign, Gateway)**  
+
+### Testing
+- JUnit  
+- Mockito  
+- Spring Boot Test  
+
+### Frontend
+- React  
+- HTML, CSS  
+- JavaScript  
+
+### Database
+- MySQL  
+- MongoDB  
+
+### Tools
+- Git & GitHub  
+- VS Code  
+- Firecamp  
+- Postman  
+
+---
+
+## 🚀 Projects
+- **Library Management System**  
+  Backend system for managing books and users  
+
+- **Banking System**  
+  Spring Boot banking backend application  
+
+- **Online Shopping System**  
+  E-commerce backend project  
+
+- **Bookie Project**  
+  Backend service project  
+
+- **Email Notification Service**  
+  Simple email notification system  
+
+- **Microservices Learning Projects**  
+  - Example: Spring Boot microservices for **Order Management & Inventory**  
+  - Built with **Spring Cloud**, **Eureka**, **Gateway**, and **Feign Clients**
+
+👉 Check my repositories for source code and implementation details.
+
+---
+
+## 📚 Currently Learning
+- MongoDB with Spring Boot  
+- Spring Boot Testing (JUnit, Mockito)  
+- React (Frontend fundamentals & API integration)  
+- **Microservices with Spring Cloud**  
+- Clean Architecture & best practices  
+
+---
 
 ## 🎯 Goals
-
-- Build a full-stack project with Spring Boot + Angular  
-- Learn cloud deployment (AWS / Render / Railway)  
+- Build testable and production-ready backend systems  
+- Become a strong backend engineer  
+- Build full-stack applications with Spring Boot & React  
+- **Master Microservices architecture**  
 - Contribute to open-source projects  
-- Improve problem-solving skills
-  
- ## 📫 How to reach me
-
-- GitHub: [github.com/kaunghtetzaw139432](https://github.com/kaunghtetzaw139432)
-- Email: zawk29006@gmail.com
-
-
-### 🚀 Featured Projects
-- [Library Management System](https://github.com/kaunghtetzaw139432/Library-management-system)
-- [Banking System](https://github.com/kaunghtetzaw139432/bank-system)
-- [Bookie Project](https://github.com/kaunghtetzaw139432/bookie)
-- [online-shopping Project](https://github.com/kaunghtetzaw139432/online-shopping)
-- [Simple_Email-Notification-Service Project](https://github.com/kaunghtetzaw139432/notification-service)
-- [E-commerce_Angular_Project](https://github.com/kaunghtetzaw139432/E-commerce_project)
-- [Notification-service ](https://github.com/kaunghtetzaw139432/notification-service)
 
 ---
 
-⭐ From [kaunghtetzaw139432](https://github.com/kaunghtetzaw139432)
+## 📫 Contact Me
+- 📧 Email: **zawk29006@gmail.com**  
+- 💻 GitHub: [kaunghtetzaw139432](https://github.com/kaunghtetzaw139432)
 
-> “Keep learning. Keep building. Every line of code is progress.” 🚀
+---
 
+⭐ *Thanks for visiting my profile!*
