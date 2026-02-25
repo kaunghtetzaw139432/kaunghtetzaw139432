@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Kaung Htet Zaw
 
-🚀 **Spring Boot Developer | Backend Engineer (Learner)**  
+🚀 **Backend Developer | Java Spring Boot | Microservices | REST APIs
 📍 Myanmar  
 
 I am a passionate backend developer and student focused on building clean, scalable, and testable applications using **Spring Boot**.  
