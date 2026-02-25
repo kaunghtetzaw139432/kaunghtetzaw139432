@@ -39,7 +39,8 @@ Currently, I am expanding my skills in **MongoDB**, **Spring Boot Testing**, **R
 
 ### Database
 - MySQL  
-- MongoDB  
+- MongoDB
+- Redis
 
 ### Tools
 - Git & GitHub  
