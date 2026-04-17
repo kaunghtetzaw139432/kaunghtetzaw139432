@@ -1,5 +1,11 @@
 # Hi 👋 I'm Kaung Htet Zaw
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend_Developer-Expertise-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java_Spring_Boot-Focused-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET_Core-Architect-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+</p>
+
 🚀 **Backend Developer | Java Spring Boot | .NET Core | Microservices**
 📍 Myanmar
 
@@ -15,47 +21,40 @@ I am a passionate **Software Engineering Student** and Backend Developer dedicat
 
 ---
 
+## 🎯 Career Goals
+- 🏗️ **Engineering Production-Ready Systems:** Developing mission-critical backend systems that handle high traffic and ensure 99.9% uptime.
+- 🌐 **Mastering Distributed Systems:** Deep diving into Cloud-Native architectures and advanced event-driven patterns.
+- 🌉 **Ecosystem Integration:** Bridging the gap between Java and .NET ecosystems to build versatile enterprise solutions.
+- 🛡️ **Security Expert:** Enhancing application security through advanced OAuth2, OpenID Connect, and Zero-Trust architectures.
+
+---
+
 ## 🛠 Tech Stack
 
-### Backend
-- **Java:** Spring Boot 3, Spring Security (JWT), JPA/Hibernate, Spring Cloud
-- **C#:** .NET Core Web API, Entity Framework (EF) Core, Repository Pattern
-- **Microservices:** Eureka, API Gateway, Feign Clients, Inter-service Communication
+### 💻 Backend & Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Database
-- **Relational (SQL):** PostgreSQL, MySQL, MS SQL Server, Supabase
-- **NoSQL:** MongoDB, Redis (Caching)
-- **ORM Tools:** Hibernate, Prisma, AutoMapper
+### 📊 Databases & Cache
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Infrastructure & Tools
-- **Version Control:** Git & GitHub (GitFlow)
-- **Containerization:** Docker, Docker Compose
-- **API Tools:** Postman, Firecamp, Swagger (OpenAPI)
-- **CI/CD:** GitHub Actions (Basic Pipelines)
+### ⚙️ Infrastructure & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23C1E81C?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-## 📚 Currently Learning & Mastering
-- **Advanced Microservices:** Event-Driven Architecture and Message Brokers (Kafka/RabbitMQ)
-- **Distributed Caching:** Optimizing performance with Redis
-- **System Design:** Mastering Scalability and High Availability patterns
-- **Cloud Foundations:** AWS/Azure Backend Deployments
-
----
-
-## 🎯 Career Goals
-- Engineering production-ready, mission-critical backend systems
-- Mastering Distributed Systems and Cloud-Native architectures
-- Bridging the ecosystem gap between Java and .NET development
-- Contributing to impactful Open-Source backend frameworks
+## 📊 GitHub Activities
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaunghtetzaw139432&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetzaw139432&layout=compact&theme=radical&border_radius=10" width="48%" />
+</p>
 
 ---
 
 ## 📫 Contact Me
-- 💼 **LinkedIn:** [kaung-htet-zaw-backend](https://www.linkedin.com/in/kaung-htet-zaw-backend)
-- 📧 **Email:** [zawk29006@gmail.com](mailto:zawk29006@gmail.com)
-- 💻 **GitHub:** [@kaunghtetzaw139432](https://github.com/kaunghtetzaw139432)
+<p align="left">
+<a href="https://www.linkedin.com/in/kaung-htet-zaw-backend" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:zawk29006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-
 ⭐ *Always learning, always coding. Focused on the core of the system.*
