@@ -50,6 +50,8 @@ I am a passionate **Software Engineering Student** and Backend Developer dedicat
 
 ---
 
+---
+
 ## 📫 Contact Me
 <p align="left">
 <a href="https://www.linkedin.com/in/kaung-htet-zaw-backend" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -57,4 +59,5 @@ I am a passionate **Software Engineering Student** and Backend Developer dedicat
 </p>
 
 ---
+
 ⭐ *Always learning, always coding. Focused on the core of the system.*
