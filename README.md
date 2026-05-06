@@ -43,12 +43,15 @@ I am a passionate **Software Engineering Student** and Backend Developer dedicat
 ---
 
 ## 📊 GitHub Activities
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaunghtetzaw139432&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunghtetzaw139432&layout=compact&theme=radical&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kaunghtetzaw139432&show_icons=true&theme=radical&rank_icon=github&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaunghtetzaw139432&layout=compact&theme=radical&border_radius=10&langs_count=8" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaunghtetzaw139432&theme=radical&border_radius=10" width="97%" />
 </p>
 
----
 
 ---
 
